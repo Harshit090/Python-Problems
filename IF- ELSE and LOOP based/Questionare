@@ -1,0 +1,69 @@
+                                                   Assignment conditional AND loops
+
+Q1 Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700 (both included).
+Q2 Write a Python program to construct the following pattern, using a nested for loop.
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+
+Q3 Write a Python program that accepts a word from the user and reverse it.
+Q4 Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
+Note : Use 'continue' statement. 
+Expected Output : 0 1 2 4 5 
+Q5 Write a Python program which accepts a sequence of comma separated 4 digit binary numbers as its input and print the numbers that are divisible by 5 in a comma separated sequence.
+Q6 Write a Python program to print alphabet pattern 'A'. 
+  ***                                                                   
+ *   *                                                                  
+ *   *                                                                  
+ *****                                                                  
+ *   *                                                                  
+ *   *                                                                  
+ *   *
+ Q7 Write a Python program to check whether an alphabet is a vowel or consonant.
+ Q8 Write a Python program that reads two integers representing a month and day and prints the season for that month and day.
+ Q9 Write a Python program to check a string represent an integer or not.
+ Q10 Write a Python program to sum of two given integers. However, if the sum is between 15 to 20 it will return 20.
+ Q11 Write a Python program to print the following patterns.
+ Expected Output:
+
+  ****                                                                  
+ *                                                                      
+ *                                                                      
+  ***                                                                   
+     *                                                                  
+     *                                                                  
+ **** 
+ 
+ ooooooooooooooooo                                                       
+ooooooooooooooooo                                                       
+ooooooooooooooooo                                                       
+oooo                                                                    
+oooo                                                                    
+oooo                                                                    
+ooooooooooooooooo                                                       
+ooooooooooooooooo                                                       
+ooooooooooooooooo                                                       
+             oooo                                                       
+             oooo                                                       
+             oooo                                                       
+ooooooooooooooooo                                                       
+ooooooooooooooooo                                                       
+ooooooooooooooooo 
+
+Q12 Write a Python program to create the multiplication table (from 1 to 10) of a number.
+Q13 Write a Python program to construct the following pattern, using a nested loop number. 
+Q14 Write a Python program to get next day of a given date.
+Expected Output:
+
+Input a year: 2016                                                      
+Input a month [1-12]: 08                                                
+Input a day [1-31]: 23                                                  
+The next date is [yyyy-mm-dd] 2016-8-24  
+Q15 Write a Python program which takes two digits m (row) and n (column) as input and generates a two-dimensional array. The element value in the i-th row and j-th column of the array should be i*j. 
