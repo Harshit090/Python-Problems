@@ -1,6 +1,6 @@
-a = input("Enter an alphabet \n")
+character = input("Enter an alphabet \n")
 l = ['a','e','i','o','u']
-if a in l:
-    print(a,"is a vowel")
+if character in l:
+    print(character,"is a vowel")
 else:
-    print(a,"is a constonant")
+    print(character,"is a constonant")
