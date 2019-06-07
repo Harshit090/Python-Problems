@@ -54,6 +54,10 @@ Q6 Write a Python program to print alphabet pattern 'A'.
      *                                                                  
  **** 
  
+Q12 Write a Python program to create the multiplication table (from 1 to 10) of a number.
+
+Q13 Write a Python program to construct the following pattern, using a nested loop number. 
+
 ooooooooooooooooo                                                       
 ooooooooooooooooo                                                       
 ooooooooooooooooo                                                       
@@ -69,11 +73,6 @@ ooooooooooooooooo
 ooooooooooooooooo                                                       
 ooooooooooooooooo                                                       
 ooooooooooooooooo 
-
-
-Q12 Write a Python program to create the multiplication table (from 1 to 10) of a number.
-
-Q13 Write a Python program to construct the following pattern, using a nested loop number. 
 
 Q14 Write a Python program to get next day of a given date.
 
