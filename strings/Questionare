@@ -1,0 +1,56 @@
+                                                         Assignment String
+
+# all of the following are equivalent
+my_string = 'Hello'
+print(my_string)
+
+my_string = "Hello"
+print(my_string)
+
+my_string = '''Hello'''
+print(my_string)
+
+# triple quotes string can extend multiple lines
+my_string = """Hello, welcome to
+           the world of Python"""
+print(my_string)
+
+str = 'programing'
+print('str = ', str)
+
+#first character
+print('str[0] = ', str[0])
+
+#last character
+print('str[-1] = ', str[-1])
+
+#slicing 2nd to 5th character
+print('str[1:5] = ', str[1:5])
+
+#slicing 6th to 2nd last character
+print('str[5:-2] = ', str[5:-2])
+Q1 Write a program that takes your full name as input and displays the abbreviations of the first and middle names except the last name which is displayed as it is.
+
+Q2 Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself.
+
+Q3 Write a Python program to get a single string from two given strings, separated by a space and swap the first two characters of each string.
+
+Q4 Write a Python program to get a string made of the first 2 and the last 2 chars from a given a string. If the string length is less than 2, return instead of the empty string.
+
+Q5 Write a Python function that takes a list of words and returns the length of the longest one.
+
+Q6 Write a Python program to remove the characters which have odd index values of a given string.
+
+Q7 Write a Python program to count the occurrences of each word in a given sentence.
+
+Q8 Write a Python program that accepts a comma separated sequence of words as input and prints the unique words in sorted form (alphanumerically).
+Sample Words : red, white, black, red, green, black
+Expected Result : black, green, red, white,red
+Q9 Write a Python program to add a prefix text to all of the lines in a string.
+
+Q10 Write a Python program to reverse a string.
+
+Q11 Write a Python program to count repeated characters in a string. 
+Sample string: 'thequickbrownfoxjumpsoverthelazydog'
+
+Q12 Write a Python program to convert a string in a list. 
