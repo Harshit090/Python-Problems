@@ -1,0 +1,32 @@
+                                                     Assignment Lists
+	
+Q1 Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings.
+Sample List : ['abc', 'xyz', 'aba', '1221']
+Expected Result : 2
+
+Q2 Write a Python program to sum and multiplies all the items in a list.
+
+Q3 Write a Python program to find the list of words that are longer than n from a given list of words. 
+
+Q4 Write a Python program to generate and print a list of first and last 5 elements where the values are square of numbers between 1 and 30 (both included).
+
+Q5  Write a python program to check whether two lists are circularly identical.
+
+Q6 Write a Python program to get unique values from a list.
+
+Q7 Write a Python program to create a list by concatenating a given list which range goes from 1 to n.
+Sample list : ['p', 'q']
+n =5
+Sample Output : ['p1', 'q1', 'p2', 'q2', 'p3', 'q3', 'p4', 'q4', 'p5', 'q5']
+
+Q8 Write a Python program to generate groups of five consecutive numbers in a list.
+
+Q9 Write a Python program to split a list every Nth element.
+Sample list: ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n']
+Expected Output: [['a', 'd', 'g', 'j', 'm'], ['b', 'e', 'h', 'k', 'n'], ['c', 'f', 'i', 'l']]
+
+Q10 Write a Python program to compute the similarity between two lists. 
+Sample data: ["red", "orange", "green", "blue", "white"], ["black", "yellow", "green", "blue"]
+Expected Output: 
+Color1-Color2: ['white', 'orange', 'red']
+Color2-Color1: ['black', 'yellow']
