@@ -1,0 +1,26 @@
+                                                  ASSIGNMENT FILE I/O
+												  
+Q1 Write a Python program to read an entire text file.
+ 
+Q2  Write a Python program to append text to a file and display the text.
+
+Q3 Write a Python program to read a file line by line and store it into a list.
+
+Q4Write a python program to find the longest words.
+
+Q5 Write a Python program to combine each line from first file with the corresponding line in second file.
+
+Q6 Find the average of each line from the file and display it seperately in a dictionary.
+Expected output:
+Average of no in lines
+{('average of line', 1): 442.4, ('average of line', 2): 481.8}
+
+Q7 Find the average of each year seperately and show it seperately yearwise in a dictionary.
+Expected output:
+{('average of year', 1992): 55.0, ('average of year', 2001): 102.0}
+
+Q8 Write a Python program to get the file size of a plain file.
+
+Q9 Write a Python program to write a list to a file.
+
+Q10 Write a Python program to remove newline characters from a file. 
