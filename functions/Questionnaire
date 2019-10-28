@@ -28,7 +28,7 @@ Q7 Write a Python program that accepts a hyphen-separated sequence of words as i
 Sample Items : green-red-yellow-black-white
 Expected Result : black-green-red-white-yellow
 
-Q8 Write a Python function to create and print a list where the values are square of numbers between 1 and 30 (both included).
+Q8 Write a Python function to create and print a list where the values are square of numbers between 0 and 29 (both included).
 
 Q9 Write a Python program to access a function inside a function.
 
