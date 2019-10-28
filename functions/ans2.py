@@ -16,7 +16,7 @@ def insrt_string_middle(a,b):
     return c
 
 a = input("Enter a string\n")
-b = input("enter the string between wich string is to be inserted\n")
+b = input("Enter the string between which string is to be inserted\n")
 
 x = insrt_string_middle(b,a)
 print(x)

@@ -1,4 +1,4 @@
-def palandrome(a):
+def palindrome(a):
     b = a[::-1]
     if b == a:
         return True
@@ -6,10 +6,10 @@ def palandrome(a):
         return False
 
 
-a = input("Enter a string to be checked for palandrome\n")
-c = palandrome(a)
+a = input("Enter a string to be checked for palindrome\n")
+c = palindrome(a)
 
 if c == True:
-    print("Its a palandrome")
+    print("Its a palindrome")
 else:
-    print("Its not a palandrome")
+    print("Its not a palindrome")
